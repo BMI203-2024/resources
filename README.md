@@ -20,7 +20,7 @@
     ```
     $ cd       
     $ ssh-keygen -t rsa -C "your_email@example.com  # Generate keygen
-    $ pbcopy < ~/.ssh/id_rsa.pub>                   # Copy keygen to clipboard
+    $ pbcopy < ~/.ssh/id_rsa.pub                    # Copy keygen to clipboard
     ```
 3. Add key to Github.
     * On Github.com, select your user profile in the upper right corner and navigate to "Settings".
